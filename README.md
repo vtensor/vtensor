@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AI Engineer with 2.5 years of experience in applied AI research and enterprise-scale development. Skilled in the<br>full lifecycle of LLM solutions from data preparation and model finetuning to evaluation, orchestration, and deployment.<br>Experienced in translating cutting-edge AI research into POCs and scaling them into production-grade solutions, with<br>expertise in agentic frameworks, advanced context engineering, RAG architectures, and autonomous multi-agent workflows.
+I am an AI Engineer with 3 years of experience in applied AI research and enterprise-scale development. Skilled in the<br>full lifecycle of LLM solutions from data preparation and model finetuning to evaluation, orchestration, and deployment.<br>Experienced in translating cutting-edge AI research into POCs and scaling them into production-grade solutions, with<br>expertise in agentic frameworks, advanced context engineering, RAG architectures, and autonomous multi-agent workflows.
 
 
 ## 🌐 Socials:
