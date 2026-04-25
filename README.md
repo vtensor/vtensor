@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am an AI Engineer with 3 years of experience in applied AI research and enterprise-scale development. Skilled in the<br>full lifecycle of LLM solutions from data preparation and model finetuning to evaluation, orchestration, and deployment.<br>Experienced in translating cutting-edge AI research into POCs and scaling them into production-grade solutions, with<br>expertise in agentic frameworks, advanced context engineering, RAG architectures, and autonomous multi-agent workflows.
+AI Engineer with 3 years of experience taking applied AI research from concept to production. End-to-end ownership across the lifecycle: data preparation, model fine-tuning, evaluation, orchestration, and deployment. Track record of translating cutting-edge research into proof-of-concept systems and scaling them into production-grade infrastructure with measurable reliability, latency, and cost characteristics.
+
+Deep expertise in agentic frameworks, advanced context engineering, retrieval-augmented generation architectures, and autonomous multi-agent workflows. Strong on the model side (fine-tuning, evaluation harnesses, distillation, alignment), and equally strong on the systems side (multi-tenant infrastructure, semantic retrieval at scale, observability, deterministic orchestration). Comfortable building in Python at production quality, with the software engineering discipline that comes from shipping rather than prototyping.
+
+Focus on the parts of applied AI that most prototypes skip: tenant isolation, retrieval quality, conflict resolution, auditability, regulatory compliance (GDPR, regulated PII handling), and the judgment to keep generative LLMs off the hot path when deterministic code does the job better. Treat reliability, latency, and cost as first-class concerns rather than afterthoughts. Comfortable acting as a technical advisor across teams, translating ambiguous problems into shipped systems.
+
+I care about building products that real users adopt and operators trust. The work I want is the work that compounds: durable infrastructure, clean abstractions, and the kind of technical rigor that lets teams ship fast without breaking the things that matter.
 
 
 ## 🌐 Socials:
