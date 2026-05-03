@@ -24,6 +24,6 @@ I care about building products that real users adopt and operators trust. The wo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vtensor&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vtensor&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=vtensor&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
