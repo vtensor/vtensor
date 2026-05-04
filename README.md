@@ -1,11 +1,11 @@
 # 💫 About Me:
-AI Engineer with 3 years of experience taking applied AI research from concept to production. End-to-end ownership across the lifecycle: data preparation, model fine-tuning, evaluation, orchestration, and deployment. Track record of translating cutting-edge research into proof-of-concept systems and scaling them into production-grade infrastructure with measurable reliability, latency, and cost characteristics.
+I'm an AI engineer with three years of experience taking applied AI from research to production. I own the full lifecycle, including data preparation, fine-tuning, evaluation, orchestration, and deployment, and I ship systems that hold up to real reliability, latency, and cost targets, not just demos.
 
-Deep expertise in agentic frameworks, advanced context engineering, retrieval-augmented generation architectures, and autonomous multi-agent workflows. Strong on the model side (fine-tuning, evaluation harnesses, distillation, alignment), and equally strong on the systems side (multi-tenant infrastructure, semantic retrieval at scale, observability, deterministic orchestration). Comfortable building in Python at production quality, with the software engineering discipline that comes from shipping rather than prototyping.
+My expertise spans both sides of the stack. On the model side: fine-tuning, eval harnesses, distillation, and alignment. On the systems side: multi-tenant infrastructure, semantic retrieval at scale, observability, and deterministic orchestration. I work in agentic frameworks, advanced context engineering, RAG architectures, and multi-agent workflows, and I write production-quality Python with the discipline that comes from shipping rather than prototyping.
 
-Focus on the parts of applied AI that most prototypes skip: tenant isolation, retrieval quality, conflict resolution, auditability, regulatory compliance (GDPR, regulated PII handling), and the judgment to keep generative LLMs off the hot path when deterministic code does the job better. Treat reliability, latency, and cost as first-class concerns rather than afterthoughts. Comfortable acting as a technical advisor across teams, translating ambiguous problems into shipped systems.
+I focus on the parts of applied AI most prototypes skip: tenant isolation, retrieval quality, conflict resolution, auditability, and regulated PII handling under GDPR. I treat reliability, latency, and cost as first-class concerns, and I have the judgment to keep generative LLMs off the hot path when deterministic code does the job better. I'm comfortable acting as a technical advisor across teams, turning ambiguous problems into shipped systems.
 
-I care about building products that real users adopt and operators trust. The work I want is the work that compounds: durable infrastructure, clean abstractions, and the kind of technical rigor that lets teams ship fast without breaking the things that matter.
+I want to build products real users adopt and operators trust: the durable infrastructure and clean abstractions that let teams move fast without breaking what matters.
 
 
 ## 🌐 Socials:
