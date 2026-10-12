@@ -7,8 +7,6 @@ I focus on the parts of applied AI most prototypes skip: tenant isolation, retri
 
 I want to build products real users adopt and operators trust: the durable infrastructure and clean abstractions that let teams move fast without breaking what matters.
 
-https://claude.ai/artifact/5AUZe3yk3QPHKCmb18jkzP#slide-3dd33bdac6c2
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-dev/)
